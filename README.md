@@ -13,7 +13,7 @@
 AI/ML Developer passionate about building intelligent, data-driven applications with a strong foundation in Machine Learning, Deep Learning, and AI systems.  
 I enjoy turning complex problems into scalable, user-focused solutions while continuously exploring emerging technologies in AI.
 
-🔭 &nbsp;I'm currently working on **an AI Discovery Agent for Private Equity Firms**  
+🔭 &nbsp;I'm currently working on **an AI Discovery Agent for Indian Judicial System**  
 🌱 &nbsp;I'm currently learning **Agentic AI**
 
 ### 🛠️ Tech Stack
